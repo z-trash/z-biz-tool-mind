@@ -1,5 +1,12 @@
 # z-biz-tool-mind
 
+> [!IMPORTANT]
+> **本仓已于 2026-11-08 并入 [z-biz-tool-file](../z-biz-tool-file)，独立仓已归档到 z-trash。**
+>
+> 思维导图现在是 file 活动栏里的「思维导图」板块：大纲 ⇄ 树编辑、多页画布、
+> .emmx/.xmind 读写、13 项导出、权益/配额与 AI 入口都完整搬入
+> （`src/apps/mind/`，含 `.emmx` 文件关联与深链接收器）。本仓仅作历史参考。
+
 思维导图桌面工具，对标亿图脑图 MindMaster：大纲 ⇄ 树同构编辑、多页画布、
 .emmx/.xmind 读写与 13 项导出格式、原生菜单栏、权益/配额门控、AI 生成主题入口。
 
